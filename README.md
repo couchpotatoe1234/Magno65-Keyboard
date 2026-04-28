@@ -1,6 +1,7 @@
 ## Magno65
 The Magno65 is a 65% keyboard that I designed because I wanted to try working with magnets on a functional design. I spent many hours working on PCB, Case, and firmware. This is currently still a work in progress.
 <img width="1094" height="561" alt="Screenshot 2026-04-27 at 5 32 24 PM" src="https://github.com/user-attachments/assets/cd2f889f-6105-49ff-816a-c5064827177b" />
+(I don't have 3d models of the switches or keycaps :( )
 <img width="1220" height="524" alt="Screenshot 2026-04-27 at 5 33 36 PM" src="https://github.com/user-attachments/assets/0327c033-ce2c-4573-a9a5-db1ea41e1c59" />
 It will use N52 Neodymium magnets that are 5mmx2mm in the PCB and on the bottom of the case, allowing the plate and the PCB to levitate. It will use a Raspberry Pi Pico RP2040 as the MCU and will use 1N4148 diodes.
 <img width="902" height="538" alt="Screenshot 2026-04-17 at 4 45 55 PM" src="https://github.com/user-attachments/assets/6ff6218a-874d-433d-9a53-bba08e4acf50" />
