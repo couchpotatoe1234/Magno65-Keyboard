@@ -20,3 +20,7 @@ The case itself is two parts, so it is 3D-printable. I currently have some untes
 
 Onshape Doc:https://cad.onshape.com/documents/eb77577446a4daf0ae7d46e7/w/089a16ad9c5a3741a09f3581/e/c99e91a4ffdbfdf9530019f2?renderMode=0&uiState=69effdf836291c1f356a94de
 <img width="492" height="373" alt="Screenshot 2026-04-27 at 5 40 28 PM" src="https://github.com/user-attachments/assets/f996724d-8e33-4868-8993-bbce8cbaf247" />
+
+Here are some calculations proving that this is actually possible:
+
+I have estimated that the total mass of the key switches(125g), keycaps(100g), diodes(20g), PCB(150g), MCU(5g), and Plate(30g) will reach around 430 grams. With 6 pairs of magnets, and the weight of the PCB section spread out across all the magnets, each magnet will need only to lift around 70 grams. The magnets have 575 grams of pull/push force when directly together. Using the inverse square law, I calculated, that at around 4mm of distance, the repelling force of the magnets will be aproximately 70 grams. therefore, the entire PCB assembly will float a comfortable 4 mm off of the bottom of the case. Including a keypress of around 50 grams for the switches, it will float a little over 3 mm off of the bottom of the case. Calculations were asissted by K&J Magnet calculator:https://www.kjmagnetics.com/magnet-strength-calculator.asp Therefore, one can conclude that this keyboard is entirely possible being levitated only by 6 pairs of magnets.
